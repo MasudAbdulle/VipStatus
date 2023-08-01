@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Paypal",
+          "value": "Paypal1"
+        },
+        {
+          "label": "Credit card",
+          "value": "creditcard2"
+        },
+        {
+          "label": "check",
+          "value": "check2"
+        }
+      ],
+      "label": "Choose payment type",
+      "type": "checklist",
+      "id": "Field_0ej3hqg",
+      "key": "paymentDetails"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1yejq1k",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.7.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 6
+}

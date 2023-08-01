@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "text": "# Order Type",
+      "type": "text",
+      "id": "Field_0uz59km"
+    },
+    {
+      "label": "Phone order",
+      "type": "checkbox",
+      "id": "Field_138cd9b",
+      "key": "phoneOrder"
+    },
+    {
+      "label": "Web/Mail order",
+      "type": "checkbox",
+      "id": "Field_1w8v0gc",
+      "key": "webMailOrder"
+    },
+    {
+      "action": "submit",
+      "label": "Submit",
+      "type": "button",
+      "id": "Field_1hdwutm",
+      "key": "field_04m0agl"
+    }
+  ],
+  "type": "default",
+  "id": "orderType",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.3.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

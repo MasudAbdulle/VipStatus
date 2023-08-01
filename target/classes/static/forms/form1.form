@@ -1,0 +1,26 @@
+{
+  "components": [
+    {
+      "label": "VIP number ",
+      "type": "textfield",
+      "id": "Field_12s8h4e",
+      "key": "customerID",
+      "properties": {},
+      "validate": {
+        "minLength": 1,
+        "maxLength": 15,
+        "pattern": "^[0-9]+$",
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_1mz8prm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.7.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 6
+}

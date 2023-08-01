@@ -1,0 +1,31 @@
+{
+  "components": [
+    {
+      "text": "# Are the order details correct?",
+      "type": "text",
+      "id": "Field_0kcd66x"
+    },
+    {
+      "label": "Yes",
+      "type": "checkbox",
+      "id": "Field_1m73o5v",
+      "key": "yes"
+    },
+    {
+      "action": "submit",
+      "label": "Submit",
+      "type": "button",
+      "id": "Field_0w8tn75",
+      "key": "field_1j1wohy"
+    }
+  ],
+  "type": "default",
+  "id": "vipQuestion",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.3.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

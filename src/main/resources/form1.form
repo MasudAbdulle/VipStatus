@@ -1,0 +1,25 @@
+{
+  "components": [
+    {
+      "label": "name",
+      "type": "textfield",
+      "id": "Field_0k5rb32",
+      "key": "name"
+    },
+    {
+      "label": "age",
+      "type": "textfield",
+      "id": "Field_1ijve0j",
+      "key": "age"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1mz8prm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.7.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 6
+}

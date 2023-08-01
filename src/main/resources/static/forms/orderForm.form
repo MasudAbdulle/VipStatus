@@ -1,0 +1,39 @@
+{
+  "components": [
+    {
+      "text": "# Example Order Form\nOrder code for VIP membership is 1111",
+      "type": "text",
+      "id": "Field_0fsropw"
+    },
+    {
+      "label": "Item Codes",
+      "type": "textfield",
+      "id": "Field_0fsls08",
+      "key": "itemCodes",
+      "description": "Fill out each item for the order, separated by a comma (,)",
+      "validate": {
+        "pattern": "^\\d{4}(,\\d{4})*$",
+        "minLength": 4,
+        "required": true
+      },
+      "properties": {}
+    },
+    {
+      "action": "submit",
+      "label": "Submit",
+      "type": "button",
+      "id": "Field_0zed9po",
+      "key": "field_0614vxe",
+      "properties": {}
+    }
+  ],
+  "type": "default",
+  "id": "orderForm2",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.3.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

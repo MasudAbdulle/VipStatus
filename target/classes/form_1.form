@@ -1,0 +1,31 @@
+{
+  "components": [
+    {
+      "label": "Acount Holder",
+      "type": "textfield",
+      "id": "Field_14w5b37",
+      "key": "field_110f3af"
+    },
+    {
+      "label": "Sort Code",
+      "type": "textfield",
+      "id": "Field_0634eya",
+      "key": "field_0nb5tl0"
+    },
+    {
+      "label": "account number ",
+      "type": "textfield",
+      "id": "Field_18meoyc",
+      "key": "field_154m2bg"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1yejq1k",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.7.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 6
+}
