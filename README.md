@@ -3,6 +3,7 @@
 
 
 Project Name: VIP ordering system
+
 Overview
 The Camunda Spring Boot Automated Business Process System is a project that aims to create an efficient and automated business process system using Camunda and Spring Boot integration. The system leverages the power of Camunda's Business Process Modelling Notation (BPMN) to design an elaborate Operational Process Model, enabling the automation of key business tasks. With the seamless integration of Spring Boot, the project ensures a robust and scalable solution for handling VIP account creation, cancellation, and processing VIP customer orders.
 
